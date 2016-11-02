@@ -1,0 +1,7 @@
+textarea {
+  width: 600pt;
+	height: 120pt;
+	border: 3pt solid #cccccc;
+	padding: 5pt;
+	font-family: Tahoma, sans-serif;
+}

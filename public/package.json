@@ -1,0 +1,17 @@
+{
+  "name": "eolo",
+  "version": "0.0.1",
+  "description": "Not sure yet...",
+  "main": "eolo.js",
+  "dependencies": {
+    "mustache": "^2.2.1",
+    "requirejs": "2.3.2",
+    "showdown": "1.4.3",
+    "markdown": "0.5.0",
+    "velocity": "0.7.2",
+    "ghw": "2.0.0",
+    "underscore": "1.8.3"
+  },
+  "repository": "None yet",
+  "license": "GPL-3.0"
+}
